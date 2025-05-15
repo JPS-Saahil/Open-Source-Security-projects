@@ -132,9 +132,4 @@ We hope these tools empower you to build safer systems. Your feedback and contri
 
 > *"Security is not a product, it's a process." – Bruce Schneier*
 
-```
 
----
-
-Let me know if you'd like a separate `README.md` just for the CCTV project, or badges, shields, or GitHub Actions integrated into this main one.
-```
