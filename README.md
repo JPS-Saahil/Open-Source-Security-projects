@@ -122,8 +122,8 @@ This project is usses open source LIB
 For questions, suggestions, or collaborations:
 
 * 📧 Email: [jpssaahil2003@outlook.com](mailto:jpssaahil2003@outlook.com)
-* 🧑‍💻 Repository Owner: [akuno\_ikigai](https://github.com/ATOMOSJ)
-* 🐛 Open an Issue: [GitHub Issues](https://github.com/ATOMOSJ/-OPEN-SOURCE-Security-project/issues)
+* 🧑‍💻 Repository Owner: [akuno\_ikigai]([https://github.com/ATOMOSJ](https://github.com/JPS-Saahil))
+* 🐛 Open an Issue: [GitHub Issues](([https://github.com/JPS-Saahil/Open-Source-Security-projects/issues])
 
 ---
 
