@@ -56,7 +56,7 @@ An OpenCV-powered home intrusion detection system that uses real-time video proc
 To get started, clone the repository:
 
 ```bash
-git clone https://github.com/ATOMOSJ/-OPEN-SOURCE-Security-project.git
+git clone git@github.com:JPS-Saahil/Open-Source-Security-projects.git
 cd OPEN-SOURCE-Security-project
 ````
 
@@ -121,7 +121,7 @@ This project is usses open source LIB
 
 For questions, suggestions, or collaborations:
 
-* 📧 Email: [jpssaahil203@gmail.com](mailto:jpssaahil203@gmail.com)
+* 📧 Email: [jpssaahil2003@outlook.com](mailto:jpssaahil2003@outlook.com)
 * 🧑‍💻 Repository Owner: [akuno\_ikigai](https://github.com/ATOMOSJ)
 * 🐛 Open an Issue: [GitHub Issues](https://github.com/ATOMOSJ/-OPEN-SOURCE-Security-project/issues)
 
